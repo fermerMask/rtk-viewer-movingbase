@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# JetBrains
+.idea/
+
+# Data files（重要：実験データ守る）
+*.nmea
+*.txt
+*.csv
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Uvicorn
+*.pid
