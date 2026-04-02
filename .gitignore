@@ -23,7 +23,6 @@ Thumbs.db
 
 # Data files（重要：実験データ守る）
 *.nmea
-*.txt
 *.csv
 
 # Python packaging
