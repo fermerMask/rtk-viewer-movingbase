@@ -24,7 +24,7 @@ Thumbs.db
 # Data files（重要：実験データ守る）
 *.nmea
 *.csv
-
+src/*.txt
 # Python packaging
 build/
 dist/
